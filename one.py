@@ -92,12 +92,8 @@ button_add.grid(row=5, column=0)
 button_equal.grid(row=5, column=1,columnspan=2)
 
 
-print("hi")
 
-
-
-
-
+print("hello")
 
 
 main.mainloop()
